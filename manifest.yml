@@ -1,0 +1,4 @@
+applications:
+- name: python-with-tensorflow
+  buildpacks:
+  - python_buildpack
