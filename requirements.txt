@@ -1,2 +1,2 @@
-gunicorn==19.3.0
+gunicorn==19.5.0
 tensorflow-cpu~=1.15.0
